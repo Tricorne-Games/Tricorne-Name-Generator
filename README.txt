@@ -15,7 +15,9 @@ DISCLAIMER
 
 Tricorne Name Generator is freely usable software, aimed to help people figure out a good name for their creative work. You are free to download, modify, share, etc. Even for commercial use.
 
-The license included is only to preserve the authorship of this base, and is not necessary to include in your program, but a courtesy credit is highly appreciated.
+The license included is only to preserve the authorship of this base, and is not necessary to include in your work, but a courtesy credit is highly appreciated.
+
+The output text generated from this program is a product of using this program for the purpose of creating an arbitrary name, and is therefore not tied to the program's own licensing or other restraints. You are free to use the output as you please.
 
 
 
